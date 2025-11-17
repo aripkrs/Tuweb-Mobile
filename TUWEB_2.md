@@ -1870,8 +1870,6 @@ Pada pertemuan berikutnya, kita akan belajar:
 **Disusun oleh:**
 Anton Prafanto, S.Kom, M.T.
 Dosen Program Studi Informatika
-Universitas Mulawarman
-Tutor Universitas Terbuka
 
 **Mata Kuliah:** Pemrograman Berbasis Perangkat Bergerak (MSIM4401)
 **Tahun:** 2025
